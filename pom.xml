@@ -19,6 +19,7 @@
   <modules>
     <module>spuser</module>
     <module>consumer</module>
+      <module>feign</module>
   </modules>
   <packaging>pom</packaging>
 
